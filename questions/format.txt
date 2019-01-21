@@ -1,0 +1,25 @@
+Here is how the structure of the questions.txt. file works. 
+If the line is inside angle brackets, you have to fill that part in
+yourself. 
+
+If the question uses Radio Buttons, then the format is below:
+
+<question code>
+<number of lines>
+<question>
+radio
+<number of answer choices>
+correct <number of correct answers>
+<answer choice>
+<reason why it is correct>
+(continue for all correct answer choices)
+alternate <number of alternate answers>
+<answer choice>
+<reason why it is alternate>
+(continue for all alternate answers)
+wrong <number of wrong answers>
+<answer choice>
+<reason why it is wrong>
+(continue for all wrong answer choices)
+
+

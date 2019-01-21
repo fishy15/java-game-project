@@ -1,0 +1,349 @@
+20
+
+1
+What food group should you eat the most of?
+radio
+4
+correct 2
+Grains
+Grains are a significant source of carbohydrates, which power you and give you energy.
+Vegetables
+Vegetables give you a lot of vitamins, such as Vitamin A, B, C, and E. Many minerals also are in the different colored vegetables, so eat as many colors as you can. 
+alternate 1
+Fruits
+Sugars contain lots of vitamins, but they also contain fructose, the sugar that makes them sweet. You should try to eat more vegetables as they have the same benefits but less sugar. 
+wrong 1
+Proteins
+Proteins are important because they help the body do many functions, but too much protein puts stress on the kidneys to filter the blood. Both grains and vegetables are better choices to eat.
+
+2
+What molecule is a protein that makes up your hair and your nails?
+radio
+5
+correct 1
+Keratin
+Keratin is a structural protein that makes up our hair and nails. There are actually two types of keratin: alpha-keratin, which is found in humans, and beta-keratin, which is in birds and reptiles. 
+alternate 0
+wrong 4
+Hemoglobin
+Hemoglobin is a protein found in red blood cells. Oxygen binds well to the iron in hemoglobin (think of rust). Keratin is actually the structural protein that makes up our hair and nails. 
+Pepsin
+Pepsin is a digestive enzyme that breaks down proteins in our stomach. We wouldnt be able to absorb nutrients otherwise! Keratin is actually the structural protein that makes up our hair and nails.
+Adrenaline
+Adrenaline is a hormone that signals the flight-orflight response. When we are scared, it makes our heart pump faster and makes us stressed. Keratin is actually the structural protein that makes up our hair and nails.
+Collagen
+Collagen is a structural protein that acts like a glue and stick the various parts of the body together. Although collagen makes up some parts, keratin actually is the structural protein that makes up our hair and nails.
+
+3
+What molecule is a protein that carries oxygen to all your cells?
+radio
+5
+correct 1
+Hemoglobin
+Hemoglobin is a protein found in red blood cells. Oxygen binds well to the iron in hemoglobin (think of rust). It is recommended to eat a little iron everyday for your hemoglobin.
+alternate 0
+wrong 4
+Keratin
+Keratin is a structural protein that makes up our hair and nails. The protein that carries oxygen is hemoglobin, which uses iron to carry the oxygen.
+Pepsin
+Pepsin is a digestive enzyme that breaks down proteins in our stomach. We wouldnt be able to absorb nutrients otherwise! The protein that carries oxygen is hemoglobin, which uses iron to carry the oxygen.
+Adrenaline
+Adrenaline is a hormone that signals the flight-or-flight response. When we are scared, it makes our heart pump faster and makes us stressed. The protein that carries oxygen is hemoglobin, which uses iron to carry the oxygen.
+Collagen
+Collagen is a structural protein that acts like a glue and stick the various parts of the body together. The protein that carries oxygen is hemoglobin, which uses iron to carry the oxygen.
+
+4
+Which food is a significant source of Vitamin A?
+radio
+6
+correct 1
+Liver
+Liver might seem disgusting to eat, but it is actually a great source of Vitamin A. Vitamin A helps your eyes and improves their vision during the day and night. It also helps your skin stay strong to protect your from infections.
+alternate 2
+Carrots
+Carrots contain carotenoids, but not Vitamin A. However, in the body, carotenoids turn into Vitamin A. Vitamin A improves your vision during the day and night. It also helps your skin stay strong to protect your from infections.
+Spinach
+Spinach contains carotenoids, but not Vitamin A. However, in the body, carotenoids turn into Vitamin A. Vitamin A improves your vision during the day and night. It also helps your skin stay strong to protect your from infections.
+wrong 3
+French Fries
+French fries might seem natural, but they are full of oil from frying them! They are not healthy to eat, and they certainly dont have much Vitamin A. To be healthier, eat more raw vegetables instead of frying them.
+Soy Beans
+Soy beans contain many of the B Vitamins, but they dont have much Vitamin A. Foods such as liver contain Vitamin A, which improves your vision during the day and night. It also helps your skin stay strong to protect your from infections.
+Onion
+Onions dont contain much Vitamin A, but they do contain lots of Vitamin C. Foods such as liver contain Vitamin A, which improves your vision during the day and night. It also helps your skin stay strong to protect your from infections.
+
+5
+Which food is a significant source of Vitamin B6?
+radio
+5
+correct 1
+Chickpeas
+1 cup of chickpeas, or garbanzo beans, contains about 55% of your daily need of Vitamin B6! This vitamin helps make hemoglobin, which carries oxygen to your cells, and keep blood sugar levels stable.
+alternate 1
+Clams
+Clams do contain a lot of B Vitamins, but they specifically contain a lot of Vitamin B12, not B6. A good source of Vitamin B6 is chickpeas. 
+wrong 3
+Almonds
+Almonds are a nut, which means they contain a lot of good fat for you. However, to get Vitamin B6, you can eat chickpeas. This vitamin helps make hemoglobin, which carries oxygen to your cells, and keep blood sugar levels stable.
+Rice
+White rice contains almost nothing of value, but brown rice contains some minerals. However, Vitamin B6 is not in rice. You can eat chickpeas for Vitamin B6, which helps your body make hemoglobin and keep blood sugar levels stable. 
+Lemon
+Lemons contain some Vitamin C, which keeps your immune system functioning. However, to get Vitamin B6, you can eat chickpeas. This vitamin helps make hemoglobin, which carries oxygen to your cells, and keep blood sugar levels stable.
+
+6
+Which food is a significant source of Vitamin B12?
+radio
+5
+correct 2
+Clams
+Only 3 ounces of clams give you more Vitamin B12 than you need for a day! Vitamin B12 helps your nervous system function and helps your body create new DNA. 
+Fish
+Many types of fish, including trout, salmon, and tuna, contain Vitamin B12. This vitamin helps your nervous system function and helps your body create new DNA. 
+alternate 1
+Chickpeas
+Chickpeas, or garbanzo beans, do contain a lot of B Vitamins, but they specifically contain a lot of Vitamin B6, not B12. Good sources of Vitamin B12 are clams and fish.
+wrong 2
+Oranges
+Oranges are known to contain Vitamin C, which boosts your immune system. However, it doesnt contain much Vitamin B12. Good sources of Vitamin B12 are clams and fish.
+Pizza
+Pizza might contain many vegetables and meats, but the copious amounts of oil and cheese make it a very unhealthy dish. Eat foods with less fat to remain healthier.
+
+7
+Which food is a significant source of Vitamin C?
+radio
+5
+correct 2
+Bell Peppers
+Bell peppers have almost 3 times as much Vitamin C than oranges! They also contain some Vitamin A. Vitamin C helps boost your immune system and helps wounds heal faster.
+Broccoli
+Even though broccoli might taste bitter, it does contain a lot of Vitamin C. Vitamin C helps boost your immune system and helps wounds heal faster.
+alternate 1
+Orange Juice
+Even though orange juice contains a lot of Vitamin C, the sugar is quickly absorbed into the body, creating a spike in blood sugar. Bell peppers and broccoli, as well as actual oranges, are better sources of vitamin C. 
+wrong 2
+Popcorn
+Popcorn contains almost no nutrients in it whatsoever, and added butter just makes it more unhealthy. You can eat bell peppers and broccoli, as well as citrus fruits, for Vitamin C.
+Milk 
+Most animals can make Vitamin C, but humans cannot. This means no animals actually put Vitamin C into their milk besides humans. You can eat bell peppers and broccoli, as well as citrus fruits, for Vitamin C.
+
+8
+How many milligrams of sodium should you eat in a day?
+slider
+0 4000 
+0
+correct 
+1500
+The amount of sodium intake recommended by the American Heart Association is less than 1500 mg a day. Excess sodium can lead to cardiovascular disease, so eat less processed foods.
+alternate
+2300
+The amount of sodium intake recommended by the USDA is less than 2300 mg a day. However, you should try to eat less than 1500 mg a day. Staying away from processed food will keep sodium levels low.
+wrong
+4000
+You should try to eat less than 1500 mg of sodium every day, with 2300 mg being the upper limit. Try to stay away from processed foods, which tend to contain lots of sodium to make it more appealing. 
+
+9
+How many micrograms of Vitamin D should you consume in a day?
+slider
+0 50
+15
+correct
+5
+The US Institute of Medicine recommends that you consume 10-20 micrograms of Vitamin D every day. Vitamin D can be made by our bodies, but you should take supplements if you live in a place that doesn't receive direct sunlights.
+alternate
+15
+The US Institute of Medicine recommends that you consume 10-20 micrograms of Vitamin D every day. You need to get that much Vitamin D so your bones remain strong. You can get Vitamin D from the sun or in supplements.
+wrong
+50
+The US Institute of Medicine recommends that you consume 10-20 micrograms of Vitamin D every day. Because it is soluble in fat, excess Vitamin D is stored in the body and can cause Vitamin D toxicity.
+
+10
+How many hours of sleep should a teenager get every night?
+slider
+0 15
+9
+correct
+0
+Teenagers need to get about 9.25 hours of sleep so that their cognitive ability is fully-functional. To maintain good sleeping habits, you should sleep at a regular time every day without electronics.
+alternate
+1
+Teenagers need to get about 9.25 hours of sleep so that their cognitive ability is fully-functional. To maintain good sleeping habits, you should sleep at a regular time every day without electronics.
+wrong
+15
+Teenagers need to get about 9.25 hours of sleep so that their cognitive ability is fully-functional. To maintain good sleeping habits, you should sleep at a regular time every day without electronics.
+
+11
+How many minutes of exercise should you do in a day?
+slider
+0 60
+60
+correct
+15
+According to the 2008 Physical Activity Guidlines for Americans, adolescents should get more than 1 hour of exercise a day. Most of it should be aerobic exercise, with some strength training as well. 
+alternate
+30
+Adolescents should get more than 1 hour of exercise a day, with most if it being aerobic exercise. Exercise brings numerous health benefits, such as improving your cardiovascular system. Exercise every day!
+wrong
+60
+Adolescents should get more than 1 hour of exercise a day, with most if it being aerobic exercise. Exercise brings numerous health benefits, such as improving your cardiovascular system. Exercise every day!
+
+
+12
+What is a warning sign of a stroke? 
+radio
+6
+correct 2
+Slurred Speech
+When you get a stroke, part of the blood supply to your brain is cut off. This can cause numbness, slurred speech, impaired vision, dizziness, or headaches. Call 911 immediately if you think you have a stroke.
+Sudden Dizziness
+When you get a stroke, part of the blood supply to your brain is cut off. This can cause numbness, slurred speech, impaired vision, dizziness, or headaches. Call 911 immediately if you think you have a stroke.
+alternate 0
+wrong 4
+Fatigue
+When you get a stroke, part of the blood supply to your brain is cut off. This can cause numbness, slurred speech, impaired vision, dizziness, or headaches. Call 911 immediately if you think you have a stroke.
+Heartburn
+When you get a stroke, part of the blood supply to your brain is cut off. This can cause numbness, slurred speech, impaired vision, dizziness, or headaches. Call 911 immediately if you think you have a stroke.
+Stress
+When you get a stroke, part of the blood supply to your brain is cut off. This can cause numbness, slurred speech, impaired vision, dizziness, or headaches. Call 911 immediately if you think you have a stroke.
+Stubbed Toe
+When you get a stroke, part of the blood supply to your brain is cut off. This can cause numbness, slurred speech, impaired vision, dizziness, or headaches. Call 911 immediately if you think you have a stroke.
+
+13
+What are the symptoms of an influenza infection (flu)?
+radio
+5
+correct 2
+Fever
+The flu can be recognized by body aches, chills, coughing, a fever, a headache, and a sore throat. If you have the flu, you should get plenty of rest and make sure you are hydrated. 
+Chills
+The flu can be recognized by body aches, chills, coughing, a fever, a headache, and a sore throat. If you have the flu, you should get plenty of rest and make sure you are hydrated. 
+alternate 0
+wrong 3
+Broken Nose
+The flu can be recognized by body aches, chills, coughing, a fever, a headache, and a sore throat. If you have the flu, you should get plenty of rest and make sure you are hydrated. 
+Hair Loss
+The flu can be recognized by body aches, chills, coughing, a fever, a headache, and a sore throat. If you have the flu, you should get plenty of rest and make sure you are hydrated. 
+Blood-Shot Eyes
+The flu can be recognized by body aches, chills, coughing, a fever, a headache, and a sore throat. If you have the flu, you should get plenty of rest and make sure you are hydrated. 
+
+14
+What is an exercise that works the full body?
+radio
+5
+correct 1
+Burpees
+Burpees require you to use your legs when jumping, arms in the push-up position, and your core throughout the entire exercise. They are an amazing exercise for your full body!
+alternate 0 
+wrong 4
+Playing Pokemon Go 
+Working your full body is important to make sure all your muscles are strong. Some good full-body exercises are burpees, push-ups, and squat-jumps.
+Speed Typing
+Working your full body is important to make sure all your muscles are strong. Some good full-body exercises are burpees, push-ups, and squat-jumps.
+Lifting Weights 
+Working your full body is important to make sure all your muscles are strong. Some good full-body exercises are burpees, push-ups, and squat-jumps.
+Running Up Stairs
+Working your full body is important to make sure all your muscles are strong. Some good full-body exercises are burpees, push-ups, and squat-jumps.
+
+15
+What is arteriosclerosis?
+radio
+4
+correct 1 
+Build-up of cholesterol in artery walls
+Arteriosclerosis is when cholesterol builds up in your artery walls, making them constricted. This increases blood pressure and may cause strokes or heart attacks. Have regular check-ups to see if you have this.
+alternate 0 
+wrong 3
+Deoxygenated blood flowing in the arteries
+Arteriosclerosis is when cholesterol builds up in your artery walls, making them constricted. This increases blood pressure and may cause strokes or heart attacks. Have regular check-ups to see if you have this.
+Arteries naturally constricting
+Arteriosclerosis is when cholesterol builds up in your artery walls, making them constricted. This increases blood pressure and may cause strokes or heart attacks. Have regular check-ups to see if you have this.
+Body confusing arteries and veins
+Arteriosclerosis is when cholesterol builds up in your artery walls, making them constricted. This increases blood pressure and may cause strokes or heart attacks. Have regular check-ups to see if you have this.
+
+16
+Which of these foods is not healthy to eat? 
+radio
+4
+correct 1
+Burger
+In moderation, you can eat burgers. However, you shouldn't eat burgers everyday because they don't contain much vitamins and they contain a lot of unhealthy fat.  
+alternate 1
+Pizza
+If prepared properly at home, with many vegetables, pizza can be healthy to eat. However, many fast food places prepare pizza with lots of fat, so it is often not healthy.
+wrong 2
+Sweet Potato
+Sweet Potato contains Vitamin D, so it is good to eat them. Unhealthy foods tend to contain fats and sugars. 
+Apple
+An apple a day keeps the doctor away. Apples are very healthy to eat, so you can eat them everyday. 
+
+17
+How can you protect yourself from the flu?
+radio
+5
+correct 1
+Yearly Vaccines 
+Vaccines will help you get immunity to flu viruses before you are infected with them. Another way to protect yourself is by washing your hands regularly and keeping them free of viruses.
+alternate 1
+Medicines
+Medicines can help treat the symptoms, but they can't cure the actual disease or prevent you from getting them. Vaccines will help you get immunity to flu viruses before you are infected with them.
+wrong 3
+Not Eating food
+Vaccines will help you get immunity to flu viruses before you are infected with them. Another way to protect yourself is by washing your hands regularly and keeping them free of viruses.
+Picking Your Nose
+Vaccines will help you get immunity to flu viruses before you are infected with them. Another way to protect yourself is by washing your hands regularly and keeping them free of viruses.
+Shaking Hands
+Vaccines will help you get immunity to flu viruses before you are infected with them. Another way to protect yourself is by washing your hands regularly and keeping them free of viruses.
+
+18
+Which foods contain high amounts of fiber? 
+radio
+6
+correct 2
+Oats
+Oats contain soluble fiber, which dissolves in the blood and lowers cholesterol levels. To get insoluble fiber, you can eat potatoes. 
+Potatoes
+Potatoes contain insoluble fiber, which helps stools move across the colon and prevent constipation. To get soluble fiber, you can eat oats.
+alternate 0 
+wrong 4
+Eggs
+Soluble fiber helps reduce cholesterol levels, and insoluble fibers move stools across the colon. To get these fibers, you can eat oats and potatoes.
+Lollipop
+Soluble fiber helps reduce cholesterol levels, and insoluble fibers move stools across the colon. To get these fibers, you can eat oats and potatoes.
+White Bread
+Soluble fiber helps reduce cholesterol levels, and insoluble fibers move stools across the colon. To get these fibers, you can eat oats and potatoes.
+Apple Juice 
+Soluble fiber helps reduce cholesterol levels, and insoluble fibers move stools across the colon. To get these fibers, you can eat oats and potatoes.
+
+19
+Which food item should diabetics avoid?
+radio
+5
+correct 1
+Bananas 
+Although bananas might not seem that sweet, they are almost 93% composed of carbohydrates. These can cause blood sugar spikes, so diabetics should stay away from them.
+alternate 0 
+wrong 4 
+Beans
+Beans contain fibers, which do not easily raise blood sugar levels. They also have lots of protein, so beans are healthy for diabetics.
+Chicken
+Chicken doesn't have much carbohydrates, so it will not increase blood sugar levels too much. They also have lots of protein, so chicken is healthy for diabetics.
+Avocado
+Avocado contains good fat for you, and they don't contain much carbohydrates. Avocados are a healthy way to get good fat for diabetics.
+Cinnamon 
+Cinnamon is fine for diabetics to eat, and there is even some research supporting cinnamon's use for treating diabetes.
+
+20
+Which type of fat is good for you?
+radio
+4
+correct 2
+Monounsaturated Fat
+Monounsaturated fats are found in avocados and vegetable oils. These fats help reduce bad cholesterol in our bodies, so we should eat these in moderation. You could also eat walnuts to get polyunsaturated fat.
+Polyunsaturated Fat
+polyunsaturated fats are found in walnuts and tofu. These fats help reduce bad cholesterol in our bodies, so we should eat these in moderation. You could also eat vegetable oils to get monounsaturated fat. 
+alternate 0 
+wrong 2
+Saturated Fat
+Saturated fats are found in many animal products, such as beef, pork, and dairy products. These fats raise your bad cholesterol levels and promote cardiovascular disease, so you should try to eat unsaturated fats. 
+Trans Fat
+Trans fats increase the amount of bad cholesterol and decrease good cholesterol, so they are dangerous for you to consume. They are found in junk food. You should eat better fats, such as the unsaturated fats.
+
